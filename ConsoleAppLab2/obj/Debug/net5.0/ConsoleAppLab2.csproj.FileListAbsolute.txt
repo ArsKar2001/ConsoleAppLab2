@@ -1,0 +1,16 @@
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.deps.json
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.runtimeconfig.json
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.runtimeconfig.dev.json
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.dll
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ref/ConsoleAppLab2.dll
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/bin/Debug/net5.0/ConsoleAppLab2.pdb
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.csproj.AssemblyReference.cache
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.AssemblyInfoInputs.cache
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.AssemblyInfo.cs
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.csproj.CoreCompileInputs.cache
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.dll
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ref/ConsoleAppLab2.dll
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.pdb
+/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/Debug/net5.0/ConsoleAppLab2.genruntimeconfig.cache
