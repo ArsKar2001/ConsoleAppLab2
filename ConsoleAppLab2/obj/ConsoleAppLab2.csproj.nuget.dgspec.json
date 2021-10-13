@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/ConsoleAppLab2.csproj": {}
+    "C:\\Users\\arsen\\projects\\csharp\\ConsoleAppLab2\\ConsoleAppLab2\\ConsoleAppLab2.csproj": {}
   },
   "projects": {
-    "/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/ConsoleAppLab2.csproj": {
+    "C:\\Users\\arsen\\projects\\csharp\\ConsoleAppLab2\\ConsoleAppLab2\\ConsoleAppLab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/ConsoleAppLab2.csproj",
+        "projectUniqueName": "C:\\Users\\arsen\\projects\\csharp\\ConsoleAppLab2\\ConsoleAppLab2\\ConsoleAppLab2.csproj",
         "projectName": "ConsoleAppLab2",
-        "projectPath": "/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/ConsoleAppLab2.csproj",
-        "packagesPath": "/home/arseniy/.nuget/packages/",
-        "outputPath": "/home/arseniy/projects/csharp/ConsoleAppLab2/ConsoleAppLab2/obj/",
+        "projectPath": "C:\\Users\\arsen\\projects\\csharp\\ConsoleAppLab2\\ConsoleAppLab2\\ConsoleAppLab2.csproj",
+        "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arsen\\projects\\csharp\\ConsoleAppLab2\\ConsoleAppLab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/arseniy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\arsen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
