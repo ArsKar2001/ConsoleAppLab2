@@ -8,6 +8,28 @@ namespace ConsoleAppLab2
 {
     public static class LabTwo
     {
+        public static void Execution(string task)
+        {
+            switch (task)
+            {
+                case "1":
+                    LabTwo.ExecutionTask1();
+                    break;
+                case "2":
+                    LabTwo.ExecutionTask2();
+                    break;
+                case "3":
+                    LabTwo.ExecutionTask3();
+                    break;
+                case "4":
+                    LabTwo.ExecutionTask4();
+                    break;
+                default:
+                    WriteLine($"Ошибка: неизвестная команда: {task}");
+                    break;
+            }
+        }
+
         /// <summary>
         /// Дано 10 вещественных чисел: a1,a2,...,a10. Требуется найти порядковый номер того из них, которое наиболее близко к какому-нибудь целому числу.
         /// </summary>
