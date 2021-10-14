@@ -1,6 +1,8 @@
 ﻿using System;
 using static System.Console;
 
+// ReSharper disable All
+
 namespace ConsoleAppLab2
 {
     internal static class LabTwoProgram
